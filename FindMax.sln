@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax", "ConsoleApp2\FindMax.csproj", "{F1B34993-B394-4394-834B-B986E1823703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{34C7C643-B282-41A8-A330-D3F2CFE27EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B34993-B394-4394-834B-B986E1823703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B34993-B394-4394-834B-B986E1823703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B34993-B394-4394-834B-B986E1823703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B34993-B394-4394-834B-B986E1823703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C7C643-B282-41A8-A330-D3F2CFE27EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C7C643-B282-41A8-A330-D3F2CFE27EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C7C643-B282-41A8-A330-D3F2CFE27EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C7C643-B282-41A8-A330-D3F2CFE27EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E7ABCB-9E8B-483C-90AA-5B3F927D82D6}
+	EndGlobalSection
+EndGlobal

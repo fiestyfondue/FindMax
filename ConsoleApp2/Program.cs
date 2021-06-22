@@ -6,11 +6,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            MaxNumber maxNumber = new MaxNumber();
-            Console.WriteLine("Finding the maximum number in the following three numbers");
-            int Maximum = maxNumber.MaxIntegerNumber(20, 12, 43);
-            Console.WriteLine(Maximum);
-
+             Console.WriteLine("Find Maximum of Numbers program");
+             string maxNum = FindMaxNumber.FindMax("Apple", "Banana", "Peach");
+             Console.WriteLine(maxNum);   
         }
     }
 }
